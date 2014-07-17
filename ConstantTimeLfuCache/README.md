@@ -1,0 +1,1 @@
+[An O(1) Algorithm for implementing the LFU Cache Eviction Scheme -- K. Shah, A. Mitra, D. Matani](https://github.com/papers-we-love/papers-we-love/blob/d70df4f6301e97c32465e4161703d04416aff061/caching/a-constant-algorithm-for-implementing-the-lfu-cache-eviction-scheme.pdf)
